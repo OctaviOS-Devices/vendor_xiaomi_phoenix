@@ -148,4 +148,5 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdService \
-    WfdCommon
+    WfdCommon \
+    SoterService
